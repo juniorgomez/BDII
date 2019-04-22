@@ -1,0 +1,9 @@
+c-100 Ambar 200
+c-101 Tele 500
+c-102 Navacerra 300
+c-103 Lima 1000
+c-104 Arequipa 350
+c-105 Pasco 6530
+c-106 Yanahuara 345
+c-107 Miraflores 789
+c-108 Ondas 340
